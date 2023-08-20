@@ -1,0 +1,39 @@
+[20Aug2023 00:23:59.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anjoway has made the advancement [We Can Rebuild It!]
+[20Aug2023 00:25:20.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 252.96190902866192,121.5,1246.7282063321477
+[20Aug2023 00:27:25.508] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Eric the ... Something'/96868, l='ServerLevel[world]', x=-3751.30, y=65.00, z=3799.30] died: Eric the ... Something was slain by Anjoway
+[20Aug2023 00:36:25.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! -255.58327328358928,-120.5,-1243.3223318845771
+[20Aug2023 00:45:13.939] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[20Aug2023 00:59:03.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Anjoway: Location (-3748.406102836132, 64.46804785728455, 3731.734375) too far away from hit block BlockPos{x=-3749, y=65, z=3731}.
+[20Aug2023 01:09:34.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anjoway has reached the goal [Burn the Gas]
+[20Aug2023 01:36:04.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 2935.6776121701055,2.5,-1554.1021882548962
+[20Aug2023 01:36:49.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! -1868.05529262989,-7.25,-414.3811394202053
+[20Aug2023 01:42:01.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2886, y=18, z=1335} BlockPos{x=-2886, y=17, z=1332}
+[20Aug2023 01:45:38.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 9.61106232108159,-0.37673561378173304,-3.3965572939364392
+[20Aug2023 01:52:48.093] [Worker-Main-419/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2245, y=36, z=814}
+[20Aug2023 02:03:25.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anjoway has made the advancement [Back to childhood]
+[20Aug2023 02:03:25.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anjoway has made the advancement [Not even afraid of death]
+[20Aug2023 02:04:19.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anjoway has made the advancement [Where Is The Stone Pen?]
+[20Aug2023 02:12:35.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! -861.6085371431973,-17.9,2897.8218213561336
+[20Aug2023 02:15:02.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway lost connection: Disconnected
+[20Aug2023 02:15:02.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anjoway left the game
+[20Aug2023 02:15:22.336] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6edc6dec
+[20Aug2023 02:15:22.397] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anjoway[/26.45.243.96:49761] logged in with entity id 117452 at (-3751.7400091773734, 63.0, 3735.5734508281475)
+[20Aug2023 02:15:22.403] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Anjoway
+[20Aug2023 02:15:22.403] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Anjoway
+[20Aug2023 02:15:22.403] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Anjoway
+[20Aug2023 02:15:22.403] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Anjoway
+[20Aug2023 02:15:22.408] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Anjoway
+[20Aug2023 02:15:22.409] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Anjoway
+[20Aug2023 02:15:22.409] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Anjoway
+[20Aug2023 02:15:22.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anjoway joined the game
+[20Aug2023 02:15:22.597] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for paragon to Anjoway
+[20Aug2023 02:15:22.598] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Server sent config handshake for deeperdarker to Anjoway
+[20Aug2023 02:15:22.610] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Anjoway
+[20Aug2023 02:15:55.392] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Anjoway : SUCCESS
+[20Aug2023 02:15:55.392] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[20Aug2023 02:15:55.393] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake response from Anjoway : SUCCESS
+[20Aug2023 02:15:55.393] [Server thread/INFO] [com.kyanite.paragon.Paragon/]: Handshake succeeded with no issues
+[20Aug2023 02:25:27.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anjoway has made the advancement [Standard Tools]
+[20Aug2023 02:27:52.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! -4.435502010714117,4.100000000000001,-11.242660080257792
+[20Aug2023 02:34:50.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway lost connection: Disconnected
+[20Aug2023 02:34:50.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anjoway left the game

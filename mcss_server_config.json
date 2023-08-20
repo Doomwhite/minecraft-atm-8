@@ -1,0 +1,26 @@
+{
+  "guid": "8778eda7-967c-4667-80ba-af2592b75540",
+  "serverTypeGuid": "8e3aecd7-b81b-4827-a3e2-93a701cdd3b4",
+  "name": "ATM8",
+  "description": "",
+  "creationDate": "2023-08-19T17:33:09.3420698-03:00",
+  "autostart": false,
+  "forceSaveOnStop": true,
+  "stopPrevention": "None",
+  "startupMethode": "BatFile",
+  "allocatedMemory": 6,
+  "allocatedMemorySuffix": "MB",
+  "startupLine": "-Xms4G -Xmx[RAM]M -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 [SERVERTYPE.NAME].jar",
+  "startupBatFilename": "startserver.bat",
+  "serverFileChecksum": "",
+  "serverFileVersion": "",
+  "javaPathOverride": "C:\\Users\\Cliente\\scoop\\apps\\temurin17-jdk\\current\\bin\\java.exe",
+  "tasks": {
+    "scheduledTasks": []
+  },
+  "backups": {
+    "backupTemplates": [],
+    "backupHistory": []
+  },
+  "subServers": []
+}
