@@ -2,9 +2,7 @@
 	id: "625b7f8c-7cc6-36da-9407-87612a588ea0"
 	type: "player"
 	player_name: "Anjoway"
-	ranks: {
-		625b7f8c-7cc6-36da-9407-87612a588ea0: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Anjoway"
 		"ftbteams:description": ""

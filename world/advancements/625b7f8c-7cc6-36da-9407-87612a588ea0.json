@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_orange_double": {
+    "criteria": {
+      "has_item": "2023-08-23 22:22:13 -0300"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/compressed_brick_from_slab": {
     "criteria": {
       "has_ingot_iron_compressed": "2023-08-05 22:23:17 -0300"
@@ -707,6 +713,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/shaped/enderium_ingot": {
+    "criteria": {
+      "has_item": "2023-08-24 00:00:17 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2023-08-04 00:02:49 -0300"
@@ -828,6 +840,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/shaped/enderium_dust": {
+    "criteria": {
+      "has_item": "2023-08-24 00:00:17 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2023-08-13 15:56:07 -0300"
@@ -861,6 +879,12 @@
   "cfm:recipes/cfm/dark_oak_desk_cabinet": {
     "criteria": {
       "has_log": "2023-08-12 23:37:06 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fajitas": {
+    "criteria": {
+      "has_bellpepper": "2023-08-23 23:34:21 -0300"
     },
     "done": true
   },
@@ -942,6 +966,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/platinum_ingot_from_block": {
+    "criteria": {
+      "has_item": "2023-08-23 22:39:14 -0300"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/green_enchanted_chest_boat": {
     "criteria": {
       "has_boat": "2023-08-05 22:56:22 -0300"
@@ -975,6 +1005,12 @@
   "create:recipes/create.palettes/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2023-08-04 00:23:31 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_gate": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
     },
     "done": true
   },
@@ -1193,6 +1229,12 @@
       "minecraft:nether_wastes": "2023-08-19 20:00:39 -0300"
     },
     "done": false
+  },
+  "alltheores:recipes/alltheores/platinum_ore_hammer": {
+    "criteria": {
+      "has_platinum_block": "2023-08-23 22:39:14 -0300"
+    },
+    "done": true
   },
   "xnet:recipes/xnet/netcable_blue": {
     "criteria": {
@@ -1578,6 +1620,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_stone_button": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-08-12 23:23:18 -0300"
@@ -1932,6 +1980,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_torch": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2023-08-19 21:47:15 -0300"
@@ -1989,6 +2043,12 @@
   "additionallanterns:recipes/additionallanterns/obsidian_lantern_lime": {
     "criteria": {
       "recipe_condition": "2023-08-06 01:08:33 -0300"
+    },
+    "done": true
+  },
+  "pylons:recipes/pylons/expulsion_pylon": {
+    "criteria": {
+      "has_diamond_block": "2023-08-23 23:47:32 -0300"
     },
     "done": true
   },
@@ -3685,6 +3745,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_slab": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-08-05 22:29:19 -0300"
@@ -3823,6 +3889,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_slope": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
   "betterdungeons:small_dungeon": {
     "criteria": {
       "in_better_monster_room": "2023-08-05 22:20:47 -0300"
@@ -3850,6 +3922,12 @@
   "alltheores:recipes/alltheores/ruby_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2023-08-13 16:54:54 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_vertical_stairs": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
     },
     "done": true
   },
@@ -4658,6 +4736,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/oatmeal": {
+    "criteria": {
+      "has_oats": "2023-08-23 21:49:51 -0300"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_2": {
     "criteria": {
       "has_birch_plank": "2023-08-04 00:02:49 -0300"
@@ -4997,6 +5081,12 @@
   "silentgear:recipes/silentgear/crimson_iron_dust_blasting": {
     "criteria": {
       "has_item": "2023-08-13 15:50:40 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_bouncy_cube": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
     },
     "done": true
   },
@@ -5490,6 +5580,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_bars": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/pink_kitchen_sink": {
     "criteria": {
       "has_bucket": "2023-08-12 22:21:39 -0300"
@@ -5748,6 +5844,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_redstone_torch": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
   "advancedperipherals:recipes/advancedperipheralstab/environment_detector": {
     "criteria": {
       "has_item": "2023-08-13 15:40:07 -0300"
@@ -5799,6 +5901,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/blastbrick": {
     "criteria": {
       "has_item": "2023-08-13 22:13:53 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_iron_pressure_plate": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
     },
     "done": true
   },
@@ -6003,6 +6111,12 @@
   "xycraft_world:recipes/building_blocks/stonecutting/glass": {
     "criteria": {
       "has_for_glass": "2023-08-13 22:05:27 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_panel": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
     },
     "done": true
   },
@@ -6800,6 +6914,12 @@
     },
     "done": true
   },
+  "trashcans:recipes/decorations/ultimate_trash_can": {
+    "criteria": {
+      "recipe_condition": "2023-08-24 00:43:37 -0300"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/volume_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2023-08-04 00:28:10 -0300"
@@ -6931,6 +7051,12 @@
   "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-08-05 22:29:19 -0300"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/misc/core_destruction": {
+    "criteria": {
+      "has_item": "2023-08-23 23:47:32 -0300"
     },
     "done": true
   },
@@ -7529,6 +7655,18 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_door": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_obsidian_pressure_plate": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/gloom_o_lantern": {
     "criteria": {
       "has_torch": "2023-08-19 20:14:19 -0300"
@@ -7749,6 +7887,12 @@
   "xycraft_world:recipes/xycraft_world/shaped/aluminum_bricks_cloud_green_r": {
     "criteria": {
       "has_ingots/aluminum": "2023-08-05 23:36:16 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_pane": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
     },
     "done": true
   },
@@ -8616,6 +8760,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_corner_pillar": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stonebrick_from_glowstone": {
     "criteria": {
       "has_item": "2023-08-12 23:21:41 -0300"
@@ -8688,6 +8838,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_brown": {
+    "criteria": {
+      "has_item": "2023-08-23 23:35:58 -0300"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/glowstone": {
     "criteria": {
       "has_the_recipe": "2023-08-12 23:21:41 -0300"
@@ -8696,8 +8852,10 @@
   },
   "croptopia:gather_all": {
     "criteria": {
+      "bellpepper_seed": "2023-08-23 23:34:21 -0300",
       "vanilla_seeds": "2023-08-13 19:43:57 -0300",
-      "cabbage_seed": "2023-08-07 00:37:53 -0300"
+      "cabbage_seed": "2023-08-07 00:37:53 -0300",
+      "oat_seed": "2023-08-23 21:49:51 -0300"
     },
     "done": false
   },
@@ -8716,6 +8874,12 @@
   "create:recipes/create.palettes/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2023-08-06 02:42:57 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_target": {
+    "criteria": {
+      "hasFramedCube": "2023-08-24 00:13:30 -0300"
     },
     "done": true
   },
@@ -9668,6 +9832,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_ladder": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2023-08-03 23:46:44 -0300"
@@ -9804,6 +9974,12 @@
   "ae2:recipes/ae2.main/block_cutter/walls/quartz_wall": {
     "criteria": {
       "has_quartz_block": "2023-08-12 23:39:46 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_blueprint": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
     },
     "done": true
   },
@@ -9966,6 +10142,12 @@
   "rftoolsbuilder:recipes/rftoolsbuilder/space_chamber": {
     "criteria": {
       "machine_frame": "2023-08-13 19:39:39 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_item_frame": {
+    "criteria": {
+      "hasFramedCube": "2023-08-24 00:13:30 -0300"
     },
     "done": true
   },
@@ -10194,6 +10376,12 @@
   "alchemistry:recipes/dissolver/prismarine_bricks": {
     "criteria": {
       "has_the_recipe": "2023-08-13 21:26:33 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_fence": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
     },
     "done": true
   },
@@ -10731,6 +10919,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_collapsible_block": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
   "advancedperipherals:recipes/advancedperipheralstab/block_reader": {
     "criteria": {
       "has_item": "2023-08-13 15:40:07 -0300"
@@ -10851,6 +11045,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/blasting/dusts/uranium_to_ingot": {
+    "criteria": {
+      "has_item": "2023-08-23 23:04:26 -0300"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/cobblestone": {
     "criteria": {
       "has_planks": "2023-08-04 00:05:18 -0300"
@@ -10860,6 +11060,12 @@
   "cfm:recipes/cfm/stripped_jungle_mail_box": {
     "criteria": {
       "has_chest": "2023-08-05 22:29:30 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_fancy_detector_rail": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
     },
     "done": true
   },
@@ -11333,6 +11539,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_ajvar": {
+    "criteria": {
+      "has_bellpepper": "2023-08-23 23:34:21 -0300"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_basic": {
     "criteria": {
       "has_leather": "2023-08-07 01:11:48 -0300"
@@ -11402,6 +11614,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
     "criteria": {
       "has_logs": "2023-08-05 22:54:15 -0300"
+    },
+    "done": true
+  },
+  "mekanism:sawmill": {
+    "criteria": {
+      "precision_sawmill": "2023-08-24 00:04:18 -0300"
     },
     "done": true
   },
@@ -11723,6 +11941,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_stone_pressure_plate": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/shaped/kivi_bricks_cloud_red_r": {
     "criteria": {
       "has_kivi": "2023-08-06 00:59:00 -0300"
@@ -11738,6 +11962,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2023-08-05 22:23:17 -0300"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shaped/neutron_reflector": {
+    "criteria": {
+      "has_item": "2023-08-23 23:05:39 -0300"
     },
     "done": true
   },
@@ -11858,6 +12088,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/toolbox": {
     "criteria": {
       "has_iron_ingot": "2023-08-04 00:26:20 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_sign": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
     },
     "done": true
   },
@@ -12056,6 +12292,12 @@
   "alltheores:recipes/alltheores/enderium_dust_from_alloy_blending": {
     "criteria": {
       "has_item": "2023-08-13 16:54:54 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_secret_storage": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
     },
     "done": true
   },
@@ -12665,9 +12907,21 @@
     },
     "done": true
   },
+  "botania:recipes/botania/light_blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2023-08-23 21:54:16 -0300"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/purple_cooler": {
     "criteria": {
       "has_chest": "2023-08-05 22:29:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2023-08-23 23:47:32 -0300"
     },
     "done": true
   },
@@ -13049,6 +13303,12 @@
     },
     "done": true
   },
+  "mekanism:reinforced_alloy": {
+    "criteria": {
+      "alloy_reinforced": "2023-08-24 00:00:39 -0300"
+    },
+    "done": true
+  },
   "elementalcraft:recipes/elementalcraft/air_mill_grindstone": {
     "criteria": {
       "has_aircrystal": "2023-08-06 00:00:05 -0300"
@@ -13226,6 +13486,12 @@
   "handcrafted:recipes/misc/golden_thick_pot": {
     "criteria": {
       "has_gold_block": "2023-08-13 21:44:36 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_one_way_window": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
     },
     "done": true
   },
@@ -13526,6 +13792,12 @@
   "ae2:recipes/ae2.main/network/cables/glass_green": {
     "criteria": {
       "has_fluix_glass_cable": "2023-08-19 19:30:40 -0300"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/diamond": {
+    "criteria": {
+      "has_the_recipe": "2023-08-23 23:47:32 -0300"
     },
     "done": true
   },
@@ -14129,6 +14401,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_key": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/iron_ore_hammer": {
     "criteria": {
       "has_iron_block": "2023-08-05 22:44:25 -0300"
@@ -14417,6 +14695,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_fancy_powered_rail": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2023-08-04 00:42:30 -0300"
@@ -14597,9 +14881,21 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_gold_pressure_plate": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
   "elementalcraft:recipes/elementalcraft/solar_synthesizer": {
     "criteria": {
       "has_whiterock": "2023-08-20 01:49:29 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_magnet_upgrade": {
+    "criteria": {
+      "has_advanced_pickup_upgrade": "2023-08-23 23:48:59 -0300"
     },
     "done": true
   },
@@ -14901,6 +15197,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/stone_bricks_dark_r": {
     "criteria": {
       "has_stone_bricks": "2023-08-19 21:11:46 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_soul_torch": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
     },
     "done": true
   },
@@ -15924,6 +16226,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/smelting/dusts/tin_to_ingot": {
+    "criteria": {
+      "has_item": "2023-08-23 23:05:39 -0300"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/vortex_cannon": {
     "criteria": {
       "has_ingot_iron_compressed": "2023-08-05 22:23:17 -0300"
@@ -16479,6 +16787,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2023-08-06 02:43:45 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_chest": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
     },
     "done": true
   },
@@ -17430,6 +17744,12 @@
     },
     "done": true
   },
+  "mekanism:energy_cube": {
+    "criteria": {
+      "basic_energy_cube": "2023-08-23 23:54:10 -0300"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/bone_meal": {
     "criteria": {
       "has_the_recipe": "2023-08-05 22:23:15 -0300"
@@ -17727,6 +18047,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2023-08-19 23:27:29 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_button": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
     },
     "done": true
   },
@@ -18062,6 +18388,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framing_saw": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_blocks/moonstone_from_shard": {
     "criteria": {
       "has_item": "2023-08-06 02:42:20 -0300"
@@ -18224,6 +18556,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_wrench": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/emerald_lantern": {
     "criteria": {
       "recipe_condition": "2023-08-19 20:14:19 -0300"
@@ -18263,6 +18601,12 @@
   "alltheores:recipes/alltheores/nickel_ingot_from_ore_blasting": {
     "criteria": {
       "has_item": "2023-08-13 17:38:12 -0300"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shaped/enderium_dust_2": {
+    "criteria": {
+      "has_item": "2023-08-24 00:00:17 -0300"
     },
     "done": true
   },
@@ -18320,6 +18664,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_upgrade_base": "2023-08-23 23:47:36 -0300"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_2": {
     "criteria": {
       "has_upgrade_base": "2023-08-19 23:28:57 -0300"
@@ -18329,6 +18679,12 @@
   "mcwbridges:recipes/birch_log_bridge_middle": {
     "criteria": {
       "has_planks": "2023-08-04 00:02:49 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2023-08-23 23:47:23 -0300"
     },
     "done": true
   },
@@ -18401,6 +18757,12 @@
   "ae2:recipes/ae2.main/misc/tank_sky_stone": {
     "criteria": {
       "has_sky_stone_block": "2023-08-12 23:39:45 -0300"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/blasting/dusts/tin_to_ingot": {
+    "criteria": {
+      "has_item": "2023-08-23 23:05:39 -0300"
     },
     "done": true
   },
@@ -18754,6 +19116,12 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2023-08-23 23:48:56 -0300"
+    },
+    "done": true
+  },
   "hexcasting:recipes/hexcasting/scroll_medium": {
     "criteria": {
       "has_item": "2023-08-13 14:57:18 -0300"
@@ -18880,6 +19248,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/smelting/dusts/uranium_to_ingot": {
+    "criteria": {
+      "has_item": "2023-08-23 23:04:26 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2023-08-04 00:41:42 -0300"
@@ -18979,6 +19353,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2023-08-13 17:23:25 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_glowing_cube": {
+    "criteria": {
+      "hasFramedCube": "2023-08-24 00:13:30 -0300"
     },
     "done": true
   },
@@ -19108,6 +19488,12 @@
     },
     "done": true
   },
+  "trashcans:trash_can": {
+    "criteria": {
+      "has_item_trash_can": "2023-08-24 00:43:37 -0300"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/blackstone_slab": {
     "criteria": {
       "has_the_recipe": "2023-08-13 17:25:46 -0300"
@@ -19165,6 +19551,12 @@
   "minecolonies:minecolonies/root": {
     "criteria": {
       "supply_ship_placed": "2023-08-06 03:10:41 -0300"
+    },
+    "done": true
+  },
+  "mekanism:atomic_alloy": {
+    "criteria": {
+      "alloy_atomic": "2023-08-24 02:05:09 -0300"
     },
     "done": true
   },
@@ -19534,6 +19926,12 @@
     },
     "done": true
   },
+  "chemlib:recipes/misc/gold_ingot_from_smelting_gold_dust": {
+    "criteria": {
+      "has_the_recipe": "2023-08-23 23:51:47 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-08-05 22:29:19 -0300"
@@ -19621,6 +20019,12 @@
   "silentgear:recipes/silentgear/guide_book": {
     "criteria": {
       "has_template_board": "2023-08-13 17:29:49 -0300"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/canning/uranium_fuel_rod": {
+    "criteria": {
+      "has_item": "2023-08-23 23:04:26 -0300"
     },
     "done": true
   },
@@ -19889,6 +20293,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_screwdriver": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/magma_blue_r": {
     "criteria": {
       "has_magma_block": "2023-08-13 21:46:13 -0300"
@@ -19910,6 +20320,12 @@
   "ae2:recipes/ae2.main/decorative/quartz_fixture": {
     "criteria": {
       "has_charged_certus_quartz_crystal": "2023-08-13 21:58:51 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_lever": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
     },
     "done": true
   },
@@ -20165,6 +20581,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/brown_shiny_flower": {
+    "criteria": {
+      "has_item": "2023-08-23 23:35:58 -0300"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_combat/dusk_spear": {
     "criteria": {
       "has_item": "2023-08-06 02:42:20 -0300"
@@ -20216,6 +20638,12 @@
   "mcwdoors:recipes/spruce": {
     "criteria": {
       "has_wood": "2023-08-19 20:47:25 -0300"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/bellpepper_seed": {
+    "criteria": {
+      "has_bellpepper": "2023-08-23 23:34:21 -0300"
     },
     "done": true
   },
@@ -20357,6 +20785,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/oat_seed": {
+    "criteria": {
+      "has_oat": "2023-08-23 21:49:51 -0300"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/taser": {
     "criteria": {
       "has_redstone": "2023-08-04 00:42:30 -0300"
@@ -20460,6 +20894,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_wall": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/blaze_gold_ingot_from_nugget": {
     "criteria": {
       "has_item": "2023-08-19 21:38:17 -0300"
@@ -20529,6 +20969,12 @@
   "securitycraft:recipes/securitycraft/crystal_quartz_item": {
     "criteria": {
       "has_prismarine_crystals": "2023-08-13 21:26:33 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/petal_yellow": {
+    "criteria": {
+      "has_item": "2023-08-23 23:34:58 -0300"
     },
     "done": true
   },
@@ -20893,6 +21339,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_flower_pot": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2023-08-06 02:46:38 -0300"
@@ -20983,9 +21435,17 @@
     },
     "done": true
   },
+  "botanypots:husbandry/get_basic_pot": {
+    "criteria": {
+      "get_botany_pot": "2023-08-23 22:22:29 -0300"
+    },
+    "done": true
+  },
   "croptopia:gather_plains": {
     "criteria": {
-      "cabbage_seed": "2023-08-07 00:37:53 -0300"
+      "cabbage_seed": "2023-08-07 00:37:53 -0300",
+      "bellpepper_seed": "2023-08-23 23:34:21 -0300",
+      "oat_seed": "2023-08-23 21:49:51 -0300"
     },
     "done": false
   },
@@ -21016,6 +21476,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2023-08-12 23:47:12 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2023-08-23 23:48:56 -0300"
     },
     "done": true
   },
@@ -21199,6 +21665,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/yellow_shiny_flower": {
+    "criteria": {
+      "has_item": "2023-08-23 23:34:58 -0300"
+    },
+    "done": true
+  },
   "elementalcraft:recipes/elementalcraft/spell_book": {
     "criteria": {
       "has_purecrystal": "2023-08-20 01:49:24 -0300"
@@ -21337,6 +21809,12 @@
   "croptopia:recipes/croptopia.croptopia/avocado_sapling": {
     "criteria": {
       "has_avocado": "2023-08-05 22:54:30 -0300"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2023-08-24 02:02:03 -0300"
     },
     "done": true
   },
@@ -21664,6 +22142,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_hammer": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
   "rftoolspower:recipes/rftoolspower/blazing_agitator": {
     "criteria": {
       "frame": "2023-08-13 19:39:39 -0300"
@@ -21793,6 +22277,12 @@
   "littlelogistics:recipes/transportation/tug_route": {
     "criteria": {
       "has_item": "2023-08-04 00:42:30 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_fancy_activator_rail": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
     },
     "done": true
   },
@@ -22094,6 +22584,12 @@
   "alchemistry:recipes/dissolver/clay": {
     "criteria": {
       "has_the_recipe": "2023-08-13 20:12:26 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_stairs": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
     },
     "done": true
   },
@@ -22638,6 +23134,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_lattice_block": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
   "utilitix:recipes/utilitix/minecart_tinkerer": {
     "criteria": {
       "criterion0": "2023-08-04 00:26:18 -0300"
@@ -22746,6 +23248,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_reinforcement": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
       "has_nether_quartz_ore": "2023-08-13 19:10:32 -0300"
@@ -22812,6 +23320,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_redstone_block": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2023-08-04 00:26:18 -0300"
@@ -22860,6 +23374,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_light_blue": {
+    "criteria": {
+      "has_item": "2023-08-23 21:54:16 -0300"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/elytra_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2023-08-04 00:28:10 -0300"
@@ -22875,6 +23395,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2023-08-03 23:59:57 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_pressure_plate": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
     },
     "done": true
   },
@@ -22947,6 +23473,12 @@
   "alltheores:recipes/alltheores/sapphire_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2023-08-13 16:54:54 -0300"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_fancy_rail": {
+    "criteria": {
+      "hasFramedBlock": "2023-08-24 00:13:30 -0300"
     },
     "done": true
   },

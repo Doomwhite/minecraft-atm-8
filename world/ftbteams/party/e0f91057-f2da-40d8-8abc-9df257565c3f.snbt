@@ -3,17 +3,18 @@
 	type: "party"
 	owner: "ebbcc9c2-c649-37da-9202-1b019f5dd2fe"
 	ranks: {
+		625b7f8c-7cc6-36da-9407-87612a588ea0: "member"
 		ebbcc9c2-c649-37da-9202-1b019f5dd2fe: "owner"
 	}
 	properties: {
 		"ftbteams:display_name": "DooMWh1te's Party"
 		"ftbteams:description": ""
-		"ftbteams:color": "#C8FF59"
-		"ftbteams:free_to_join": 0b
+		"ftbteams:color": "#59FDFF"
+		"ftbteams:free_to_join": 1b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b
 		"ftbchunks:allow_mob_griefing": 0b
-		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_fake_players": 1b
 		"ftbchunks:allow_named_fake_players": [ ]
 		"ftbchunks:allow_fake_players_by_id": 1b
 		"ftbchunks:block_edit_mode": "allies"
@@ -23,6 +24,15 @@
 		"ftbchunks:claim_visibility": "public"
 		"ftbchunks:location_mode": "allies"
 	}
-	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1692494475921L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"DooMWh1te\"}]}" }]
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1692494475921L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"DooMWh1te\"}]}" }
+		{ from: "ebbcc9c2-c649-37da-9202-1b019f5dd2fe", date: 1692838143466L, text: "{\"text\":\"123\"}" }
+		{ from: "ebbcc9c2-c649-37da-9202-1b019f5dd2fe", date: 1692838144186L, text: "{\"text\":\"123\"}" }
+		{ from: "ebbcc9c2-c649-37da-9202-1b019f5dd2fe", date: 1692838147891L, text: "{\"text\":\"/join\"}" }
+		{ from: "ebbcc9c2-c649-37da-9202-1b019f5dd2fe", date: 1692838250841L, text: "{\"text\":\"/ftbteams invite Anjoway\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1692838279781L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Anjoway\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1692838403344L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.left_party\",\"with\":[{\"color\":\"yellow\",\"text\":\"Anjoway\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1692838434384L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Anjoway\"}]}" }
+	]
 	extra: { }
 }
