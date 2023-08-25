@@ -14951,6 +14951,12 @@
     },
     "done": true
   },
+  "alltheores:recipes/alltheores/peridot_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/peridot]_ingot": "2023-08-24 23:51:00 -0300"
+    },
+    "done": true
+  },
   "hexcasting:recipes/hexcasting/amethyst_dust_packing": {
     "criteria": {
       "has_item": "2023-08-19 22:25:50 -0300"
@@ -18411,6 +18417,12 @@
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2023-08-06 00:39:53 -0300"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_town_hall": {
+    "criteria": {
+      "town_hall": "2023-08-24 23:24:42 -0300"
     },
     "done": true
   },
