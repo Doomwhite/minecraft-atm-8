@@ -1,109 +1,164 @@
-[25Aug2023 00:23:57.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
-[25Aug2023 00:29:00.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3237ms or 64 ticks behind
-[25Aug2023 00:32:27.763] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['His Holiness Isabelle the Lazy'/66302, l='ServerLevel[world]', x=-315.09, y=62.00, z=158.50] died: His Holiness Isabelle the Lazy was slain by Anjoway
-[25Aug2023 00:35:48.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! -1068.8194183870214,2.625,1965.4292405845638
-[25Aug2023 00:35:57.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5862ms or 117 ticks behind
-[25Aug2023 00:37:02.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 1.0774327987955985,1.024424088213685,-10.095168895563802
-[25Aug2023 00:37:06.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32289ms or 645 ticks behind
-[25Aug2023 00:37:06.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! -0.004763411563999398,1.2491870787446828,-10.268470307390999
-[25Aug2023 00:45:31.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
-[25Aug2023 00:51:11.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 106.0,-42.5,-238.0
-[25Aug2023 00:51:23.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! -1423.0,-193.5,2816.0
-[25Aug2023 00:57:15.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anjoway has made the advancement [Captured!]
-[25Aug2023 01:07:45.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 3539.860163716989,27.5,-3341.647981416525
-[25Aug2023 01:07:49.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 104.58066768422242,-42.5,-237.24702219672326
-[25Aug2023 01:08:01.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! -104.27923472142984,43.5,239.69370526873428
-[25Aug2023 01:08:05.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! -3541.2093404905054,-26.5,3338.799375011921
-[25Aug2023 01:17:58.974] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway lost connection: Disconnected
-[25Aug2023 01:17:58.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anjoway left the game
-[25Aug2023 01:24:41.525] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
-[25Aug2023 01:29:43.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2586ms or 51 ticks behind
-[25Aug2023 01:39:45.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2241ms or 44 ticks behind
-[25Aug2023 01:54:47.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2297ms or 45 ticks behind
-[25Aug2023 02:04:48.639] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
-[25Aug2023 02:04:48.642] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
-[25Aug2023 02:34:50.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2593ms or 51 ticks behind
-[25Aug2023 03:29:52.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2636ms or 52 ticks behind
-[25Aug2023 03:44:56.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3431ms or 68 ticks behind
-[25Aug2023 03:59:58.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[25Aug2023 04:30:01.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2989ms or 59 ticks behind
-[25Aug2023 04:50:04.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3513ms or 70 ticks behind
-[25Aug2023 05:30:06.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2321ms or 46 ticks behind
-[25Aug2023 05:45:08.583] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
-[25Aug2023 05:55:09.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2645ms or 52 ticks behind
-[25Aug2023 06:15:15.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5609ms or 112 ticks behind
-[25Aug2023 06:35:18.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3027ms or 60 ticks behind
-[25Aug2023 07:00:21.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2997ms or 59 ticks behind
-[25Aug2023 07:25:23.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2717ms or 54 ticks behind
-[25Aug2023 08:00:26.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
-[25Aug2023 08:25:28.195] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
-[25Aug2023 08:30:30.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4219ms or 84 ticks behind
-[25Aug2023 08:35:32.676] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2190ms or 43 ticks behind
-[25Aug2023 08:40:39.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7357ms or 147 ticks behind
-[25Aug2023 08:54:44.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[25Aug2023 08:54:44.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <--[HERE]
-[25Aug2023 08:54:47.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[25Aug2023 08:54:47.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <--[HERE]
-[25Aug2023 08:55:15.947] [Server thread/INFO] [Async Locator/]: Async Locator -> Shutting down locating executor service
-[25Aug2023 08:55:16.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[25Aug2023 08:55:16.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[25Aug2023 08:55:16.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[25Aug2023 08:55:30.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[25Aug2023 08:55:35.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
-[25Aug2023 08:55:35.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/compactmachines:compact_world
-[25Aug2023 08:55:35.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mythicbotany:alfheim
-[25Aug2023 08:55:35.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
-[25Aug2023 08:55:35.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[25Aug2023 08:55:35.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[25Aug2023 08:55:35.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
-[25Aug2023 08:55:35.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
-[25Aug2023 08:55:35.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
-[25Aug2023 08:55:35.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
-[25Aug2023 08:55:35.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
-[25Aug2023 08:55:35.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
-[25Aug2023 08:55:35.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
-[25Aug2023 08:55:35.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
-[25Aug2023 08:55:35.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
-[25Aug2023 08:55:35.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
-[25Aug2023 08:55:35.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
-[25Aug2023 08:55:35.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
-[25Aug2023 08:55:36.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
-[25Aug2023 08:55:36.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[25Aug2023 08:55:36.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
-[25Aug2023 08:55:36.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[25Aug2023 08:55:36.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
-[25Aug2023 08:55:36.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
-[25Aug2023 08:55:43.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[25Aug2023 08:55:43.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
-[25Aug2023 08:55:43.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
-[25Aug2023 08:55:43.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alfheim): All chunks are saved
-[25Aug2023 08:55:43.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
-[25Aug2023 08:55:43.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[25Aug2023 08:55:43.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[25Aug2023 08:55:43.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
-[25Aug2023 08:55:43.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
-[25Aug2023 08:55:43.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
-[25Aug2023 08:55:43.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
-[25Aug2023 08:55:43.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
-[25Aug2023 08:55:43.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
-[25Aug2023 08:55:43.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
-[25Aug2023 08:55:43.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
-[25Aug2023 08:55:43.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
-[25Aug2023 08:55:43.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
-[25Aug2023 08:55:43.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
-[25Aug2023 08:55:43.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
-[25Aug2023 08:55:43.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
-[25Aug2023 08:55:43.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[25Aug2023 08:55:43.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
-[25Aug2023 08:55:43.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[25Aug2023 08:55:43.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
-[25Aug2023 08:55:43.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[25Aug2023 08:55:43.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[25Aug2023 08:55:45.071] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
-[25Aug2023 08:55:45.532] [Server thread/INFO] [shetiphian.endertanks.EnderTanks/]: Unloading EnderTank Data
-[25Aug2023 08:55:45.533] [Server thread/INFO] [shetiphian.endertanks.EnderTanks/]: Finished Unloading EnderTank Data
-[25Aug2023 08:55:45.544] [Server thread/INFO] [configured/]: Unloading server configs...
-[25Aug2023 08:55:45.570] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
-[25Aug2023 08:55:45.624] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Unloading EnderChest Data
-[25Aug2023 08:55:45.626] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Finished Unloading EnderChest Data
-[25Aug2023 08:55:46.552] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread Query Listener stopped
+[29Aug2023 00:01:03.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1259, y=89, z=-419} BlockPos{x=-1260, y=88, z=-419}
+[29Aug2023 00:02:33.357] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Becky the Doominator'/44066, l='ServerLevel[world]', x=-1263.71, y=94.00, z=-416.80] died: Becky the Doominator was slain by Anjoway
+[29Aug2023 00:04:24.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1395, y=89, z=-153} BlockPos{x=-1418, y=91, z=-100}
+[29Aug2023 00:04:24.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1395, y=89, z=-153} BlockPos{x=-1418, y=91, z=-100}
+[29Aug2023 00:04:24.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1395, y=89, z=-153} BlockPos{x=-1418, y=91, z=-100}
+[29Aug2023 00:04:24.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1395, y=89, z=-153} BlockPos{x=-1418, y=91, z=-100}
+[29Aug2023 00:04:24.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1395, y=89, z=-153} BlockPos{x=-1418, y=91, z=-100}
+[29Aug2023 00:04:24.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1395, y=89, z=-153} BlockPos{x=-1418, y=91, z=-100}
+[29Aug2023 00:04:56.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anjoway has completed the challenge [Return to Sender]
+[29Aug2023 00:06:51.067] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[29Aug2023 00:08:56.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anjoway has made the advancement [Crimson Iron]
+[29Aug2023 00:09:10.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anjoway has made the advancement [Into Fire]
+[29Aug2023 00:13:24.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 1422.0128110926548,194.5,-2816.6527631838376
+[29Aug2023 00:13:56.017] [Server thread/WARN] [ModernFix/]: The namespace betterstrongholds contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[29Aug2023 00:13:59.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anjoway has made the advancement [Eye Spy]
+[29Aug2023 00:13:59.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3092ms or 61 ticks behind
+[29Aug2023 00:14:03.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anjoway has made the advancement [The End?]
+[29Aug2023 00:14:03.206] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'apotheosis:piercing'
+[29Aug2023 00:14:03.384] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'apotheosis:piercing'
+[29Aug2023 00:14:03.576] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'apotheosis:piercing'
+[29Aug2023 00:14:03.579] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'apotheosis:piercing'
+[29Aug2023 00:14:03.649] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'apotheosis:piercing'
+[29Aug2023 00:14:03.831] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'apotheosis:piercing'
+[29Aug2023 00:21:55.706] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Shulker['Madam Lilith the Curious'/47115, l='ServerLevel[world]', x=41.50, y=59.00, z=-43.50] died: Madam Lilith the Curious was slain by Anjoway
+[29Aug2023 00:26:53.614] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[29Aug2023 00:26:53.615] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[29Aug2023 00:29:10.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anjoway has made the advancement [Blue Lotus]
+[29Aug2023 00:38:22.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 2263.0,-129.5,-868.0
+[29Aug2023 00:41:40.016] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_boots/mythic/ABILITY/0.3!
+[29Aug2023 00:43:34.569] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_helmet/mythic/ABILITY/0.3!
+[29Aug2023 00:58:01.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 2263.0,-129.5,-868.0
+[29Aug2023 01:00:50.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anjoway has made the advancement [Silver, But Better]
+[29Aug2023 01:06:25.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 1422.0008831041582,194.5,-2817.507747752273
+[29Aug2023 01:06:28.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 2263.0,-129.5,-868.0
+[29Aug2023 01:11:59.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anjoway has made the advancement [Tier 2 Grader Catalyst]
+[29Aug2023 01:17:28.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! -1423.0,-193.5,2816.0
+[29Aug2023 01:17:30.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 1074.0,0.5,-1963.0
+[29Aug2023 01:24:49.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
+[29Aug2023 01:28:47.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 3539.0609314777125,27.5,-3339.8745481545307
+[29Aug2023 01:28:50.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 146.0,37.5,-345.0
+[29Aug2023 01:28:50.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 146.0,37.5,-345.0
+[29Aug2023 01:29:54.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 2263.0,-129.5,-868.0
+[29Aug2023 01:30:02.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 1137.9893077858324,82.6,4731.633720256122
+[29Aug2023 01:30:12.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 1420.986451140439,194.5,-2818.7544911891864
+[29Aug2023 01:30:17.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 2263.0,-129.5,-868.0
+[29Aug2023 01:30:46.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Anjoway: Location (56.4375, 47.83339324593544, 18.549732089042664) too far away from hit block BlockPos{x=56, y=48, z=17}.
+[29Aug2023 01:37:14.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 2263.0,-129.5,-868.0
+[29Aug2023 01:37:58.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 2263.0,-129.5,-868.0
+[29Aug2023 01:37:58.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 2263.0,-129.5,-868.0
+[29Aug2023 01:37:58.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 2263.0,-129.5,-868.0
+[29Aug2023 01:38:08.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4213ms or 84 ticks behind
+[29Aug2023 01:38:11.133] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'apotheosis:piercing'
+[29Aug2023 01:43:25.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 1422.4660536340803,194.5,-2817.6069039842027
+[29Aug2023 01:51:02.424] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_boots/mythic/ABILITY/0.3!
+[29Aug2023 02:01:49.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-251, y=80, z=290} BlockPos{x=-251, y=80, z=291}
+[29Aug2023 02:01:49.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-251, y=80, z=290} BlockPos{x=-251, y=80, z=291}
+[29Aug2023 02:01:49.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-251, y=80, z=290} BlockPos{x=-251, y=80, z=291}
+[29Aug2023 02:01:50.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-250, y=80, z=291} BlockPos{x=-250, y=80, z=290}
+[29Aug2023 02:01:50.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-250, y=80, z=291} BlockPos{x=-250, y=80, z=290}
+[29Aug2023 02:01:50.155] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-250, y=80, z=291} BlockPos{x=-250, y=80, z=290}
+[29Aug2023 02:01:50.603] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-250, y=80, z=291} BlockPos{x=-250, y=80, z=290}
+[29Aug2023 02:01:50.604] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-250, y=80, z=291} BlockPos{x=-250, y=80, z=290}
+[29Aug2023 02:01:50.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-250, y=80, z=291} BlockPos{x=-250, y=80, z=290}
+[29Aug2023 02:01:50.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-250, y=80, z=291} BlockPos{x=-250, y=80, z=290}
+[29Aug2023 02:01:50.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-250, y=80, z=291} BlockPos{x=-250, y=80, z=290}
+[29Aug2023 02:01:50.610] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-250, y=80, z=291} BlockPos{x=-250, y=80, z=290}
+[29Aug2023 02:01:51.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-250, y=80, z=291} BlockPos{x=-246, y=79, z=290}
+[29Aug2023 02:04:59.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=97, z=81} BlockPos{x=-261, y=36, z=-98}
+[29Aug2023 02:05:00.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=97, z=81} BlockPos{x=-261, y=36, z=-98}
+[29Aug2023 02:05:00.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=97, z=81} BlockPos{x=-261, y=36, z=-98}
+[29Aug2023 02:05:00.106] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=97, z=81} BlockPos{x=-261, y=36, z=-98}
+[29Aug2023 02:05:00.157] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=97, z=81} BlockPos{x=-261, y=36, z=-98}
+[29Aug2023 02:05:00.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-173, y=97, z=81} BlockPos{x=-261, y=36, z=-98}
+[29Aug2023 02:05:01.610] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-261, y=35, z=-99} BlockPos{x=-262, y=36, z=-99}
+[29Aug2023 02:05:01.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-261, y=35, z=-99} BlockPos{x=-262, y=36, z=-99}
+[29Aug2023 02:05:01.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-261, y=35, z=-99} BlockPos{x=-262, y=36, z=-99}
+[29Aug2023 02:05:01.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-261, y=35, z=-99} BlockPos{x=-262, y=36, z=-99}
+[29Aug2023 02:05:01.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-261, y=35, z=-99} BlockPos{x=-262, y=36, z=-99}
+[29Aug2023 02:05:01.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-261, y=35, z=-99} BlockPos{x=-262, y=36, z=-99}
+[29Aug2023 02:05:01.910] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-261, y=35, z=-99} BlockPos{x=-262, y=36, z=-99}
+[29Aug2023 02:07:00.420] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[29Aug2023 02:09:15.937] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Borostodark'/113506, l='ServerLevel[world]', x=-446.30, y=55.00, z=-74.66] died: Borostodark was slain by Anjoway
+[29Aug2023 02:13:11.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 1072.952964019406,0.5,-1965.8632802446741
+[29Aug2023 02:13:14.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 2612.0,64.5,-1721.0
+[29Aug2023 02:29:43.640] [Server thread/WARN] [mekanism.common.Mekanism/]: Unexpected BlockEntity class at BlockPos{x=-3762, y=63, z=3734}, expected class mekanism.common.tile.TileEntityEnergyCube, but found: class mekanism.common.tile.transmitter.TileEntityUniversalCable
+[29Aug2023 02:29:43.642] [Server thread/WARN] [mekanism.common.Mekanism/]: Unexpected BlockEntity class at BlockPos{x=-3762, y=63, z=3734}, expected class mekanism.common.tile.TileEntityEnergyCube, but found: class mekanism.common.tile.transmitter.TileEntityUniversalCable
+[29Aug2023 02:30:08.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 1072.2787787212892,0.5,-1965.296332268952
+[29Aug2023 02:30:08.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway moved too quickly! 1072.2787787212892,0.5,-1965.296332268952
+[29Aug2023 02:30:24.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-364, y=89, z=210} BlockPos{x=-364, y=88, z=210}
+[29Aug2023 02:30:24.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-364, y=89, z=210} BlockPos{x=-364, y=88, z=210}
+[29Aug2023 02:30:24.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-364, y=89, z=210} BlockPos{x=-364, y=88, z=210}
+[29Aug2023 02:30:24.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-364, y=89, z=210} BlockPos{x=-364, y=88, z=210}
+[29Aug2023 02:30:44.550] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Lord Seg the Morbius'/115991, l='ServerLevel[world]', x=-383.25, y=96.00, z=225.48] died: Lord Seg the Morbius was slain by Anjoway
+[29Aug2023 02:47:32.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anjoway lost connection: Disconnected
+[29Aug2023 02:47:32.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anjoway left the game
+[29Aug2023 06:07:00.640] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[29Aug2023 07:27:00.840] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[29Aug2023 07:47:00.892] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[29Aug2023 08:27:00.992] [Server thread/WARN] [pneumaticcraft/]: Amadron: failed to find any trades for profession evilcraft:werewolf ?
+[29Aug2023 08:59:07.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Aug2023 08:59:07.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <--[HERE]
+[29Aug2023 08:59:08.883] [Server thread/INFO] [Async Locator/]: Async Locator -> Shutting down locating executor service
+[29Aug2023 08:59:08.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Aug2023 08:59:08.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Aug2023 08:59:08.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Aug2023 08:59:09.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Aug2023 08:59:09.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[29Aug2023 08:59:09.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/compactmachines:compact_world
+[29Aug2023 08:59:09.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[29Aug2023 08:59:09.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[29Aug2023 08:59:09.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[29Aug2023 08:59:09.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[29Aug2023 08:59:09.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[29Aug2023 08:59:09.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[29Aug2023 08:59:09.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[29Aug2023 08:59:09.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mythicbotany:alfheim
+[29Aug2023 08:59:09.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Aug2023 08:59:09.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[29Aug2023 08:59:09.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[29Aug2023 08:59:09.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[29Aug2023 08:59:09.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[29Aug2023 08:59:09.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[29Aug2023 08:59:09.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[29Aug2023 08:59:09.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Aug2023 08:59:09.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[29Aug2023 08:59:09.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
+[29Aug2023 08:59:09.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[29Aug2023 08:59:09.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[29Aug2023 08:59:09.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
+[29Aug2023 08:59:09.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[29Aug2023 08:59:09.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Aug2023 08:59:09.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[29Aug2023 08:59:09.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
+[29Aug2023 08:59:09.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[29Aug2023 08:59:09.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[29Aug2023 08:59:09.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[29Aug2023 08:59:09.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[29Aug2023 08:59:09.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[29Aug2023 08:59:09.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[29Aug2023 08:59:09.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[29Aug2023 08:59:09.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alfheim): All chunks are saved
+[29Aug2023 08:59:09.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Aug2023 08:59:09.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[29Aug2023 08:59:09.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[29Aug2023 08:59:09.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[29Aug2023 08:59:09.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[29Aug2023 08:59:09.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[29Aug2023 08:59:09.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[29Aug2023 08:59:09.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Aug2023 08:59:09.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[29Aug2023 08:59:09.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[29Aug2023 08:59:09.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[29Aug2023 08:59:09.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[29Aug2023 08:59:09.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[29Aug2023 08:59:09.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[29Aug2023 08:59:09.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Aug2023 08:59:09.887] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
+[29Aug2023 08:59:09.915] [Server thread/INFO] [shetiphian.endertanks.EnderTanks/]: Unloading EnderTank Data
+[29Aug2023 08:59:09.915] [Server thread/INFO] [shetiphian.endertanks.EnderTanks/]: Finished Unloading EnderTank Data
+[29Aug2023 08:59:09.917] [Server thread/INFO] [configured/]: Unloading server configs...
+[29Aug2023 08:59:09.921] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
+[29Aug2023 08:59:09.923] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Unloading EnderChest Data
+[29Aug2023 08:59:09.923] [Server thread/INFO] [shetiphian.enderchests.EnderChests/]: Finished Unloading EnderChest Data
+[29Aug2023 08:59:10.275] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread Query Listener stopped

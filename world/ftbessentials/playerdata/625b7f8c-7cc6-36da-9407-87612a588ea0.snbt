@@ -3,21 +3,21 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "minecraft:overworld", x: -3765, y: 64, z: 3734, time: 1692937078977L }
+	last_seen: { dim: "minecraft:overworld", x: -3760, y: 63, z: 3734, time: 1693288052964L }
 	recording: 0
 	teleport_history: [
-		{ dim: "minecraft:overworld", x: -3942, y: -7, z: 2667, time: 1691961872985L }
-		{ dim: "minecraft:overworld", x: -3302, y: 61, z: 3136, time: 1691973458750L }
-		{ dim: "minecraft:overworld", x: -3185, y: 62, z: 3663, time: 1691974271407L }
-		{ dim: "minecraft:overworld", x: -2062, y: 80, z: 2077, time: 1692489532202L }
-		{ dim: "minecraft:overworld", x: -2056, y: 72, z: 2082, time: 1692494867148L }
-		{ dim: "minecraft:overworld", x: -1574, y: 70, z: 1844, time: 1692499535945L }
-		{ dim: "minecraft:overworld", x: -671, y: -45, z: 2296, time: 1692500051251L }
-		{ dim: "minecraft:overworld", x: -2892, y: 81, z: 836, time: 1692508355790L }
-		{ dim: "minecraft:overworld", x: -3750, y: 59, z: 3745, time: 1692509272888L }
-		{ dim: "minecraft:overworld", x: -2338, y: 109, z: 896, time: 1692922171919L }
+		{ dim: "minecraft:overworld", x: -4890, y: -20, z: -998, time: 1693283402197L }
+		{ dim: "minecraft:the_end", x: 60, y: 40, z: 0, time: 1693283600382L }
+		{ dim: "minecraft:the_end", x: 50, y: 47, z: 16, time: 1693283855244L }
+		{ dim: "minecraft:the_end", x: 76, y: 11, z: 5, time: 1693284146476L }
+		{ dim: "minecraft:the_end", x: -72, y: 38, z: 85, time: 1693284774689L }
+		{ dim: "minecraft:the_nether", x: -438, y: 51, z: 459, time: 1693284972729L }
+		{ dim: "minecraft:the_nether", x: -276, y: 45, z: -35, time: 1693285862987L }
+		{ dim: "minecraft:the_end", x: 55, y: 47, z: 20, time: 1693286059233L }
+		{ dim: "minecraft:the_nether", x: -233, y: 115, z: 327, time: 1693287237859L }
+		{ dim: "minecraft:the_end", x: 54, y: 47, z: 16, time: 1693287654585L }
 	]
 	homes: {
-		home: { dim: "minecraft:overworld", x: -3754, y: 63, z: 3734, time: 1692494842895L }
+		home: { dim: "minecraft:overworld", x: -3752, y: 63, z: 3734, time: 1693274504345L }
 	}
 }
