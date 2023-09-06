@@ -1,1 +1,0 @@
-start "ATM 8" /abovenormal "C:\Users\adinelson.bruhmuller.MOVTECH\Documents\Projects\Git\minecraft-atm-8\startserver.bat"
