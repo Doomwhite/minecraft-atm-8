@@ -437,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-07 22:13:52 -0300"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/shears_template": {
     "criteria": {
       "has_item": "2023-08-13 17:29:49 -0300"
@@ -536,6 +542,12 @@
   "croptopia:recipes/croptopia.croptopia/cooked_calamari_from_smoking_glowing_calamari": {
     "criteria": {
       "has_glowing_calamari": "2023-08-26 00:00:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-07 22:17:18 -0300"
     },
     "done": true
   },
@@ -641,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-07 22:17:18 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_fence_from_acacia_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2023-08-24 21:22:36 -0300"
@@ -704,6 +722,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2023-08-13 22:05:27 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/bort_block": {
+    "criteria": {
+      "has_item": "2023-09-07 22:09:33 -0300"
     },
     "done": true
   },
@@ -1260,6 +1284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-07 22:17:18 -0300"
+    },
+    "done": true
+  },
   "elementalcraft:recipes/elementalcraft/instrument_retriever": {
     "criteria": {
       "has_drenched_iron_ingot": "2023-08-06 02:51:28 -0300"
@@ -1293,6 +1323,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2023-08-28 23:35:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-07 22:13:52 -0300"
     },
     "done": true
   },
@@ -2283,6 +2319,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/deepslate_tile_slab": {
+    "criteria": {
+      "has_the_recipe": "2023-09-07 22:13:52 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2023-08-04 00:02:49 -0300"
@@ -3197,9 +3239,21 @@
     },
     "done": true
   },
+  "mininggadgets:recipes/mininggadgets/upgrade_efficiency_4": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/packing_tape": {
     "criteria": {
       "has_slime": "2023-08-13 21:51:53 -0300"
+    },
+    "done": true
+  },
+  "mininggadgets:recipes/mininggadgets/upgrade_efficiency_5": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
     },
     "done": true
   },
@@ -3216,6 +3270,18 @@
     },
     "done": true
   },
+  "mininggadgets:recipes/mininggadgets/upgrade_efficiency_1": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
+    },
+    "done": true
+  },
+  "mininggadgets:recipes/mininggadgets/upgrade_efficiency_2": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
+    },
+    "done": true
+  },
   "repurposed_structures:igloos": {
     "criteria": {
       "in_igloo_grassy": "2023-08-13 15:20:08 -0300"
@@ -3225,6 +3291,12 @@
   "ftbic:recipes/ftbic/macerating/ores/copper_to_dust": {
     "criteria": {
       "has_item": "2023-08-13 17:33:28 -0300"
+    },
+    "done": true
+  },
+  "mininggadgets:recipes/mininggadgets/upgrade_efficiency_3": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
     },
     "done": true
   },
@@ -3591,6 +3663,12 @@
   "ae2:recipes/ae2.main/network/cables/glass_fluix": {
     "criteria": {
       "has_quartz_fiber": "2023-08-13 22:05:50 -0300"
+    },
+    "done": true
+  },
+  "mininggadgets:recipes/mininggadgets/mininggadget_simple": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
     },
     "done": true
   },
@@ -4218,6 +4296,12 @@
     },
     "done": true
   },
+  "allthemodium:recipes/allthemodium/raw_allthemodium_block": {
+    "criteria": {
+      "has_raw_allthemodium": "2023-09-07 22:49:21 -0300"
+    },
+    "done": true
+  },
   "mcwfences:recipes/mangrove": {
     "criteria": {
       "has_mangrove": "2023-08-04 00:00:51 -0300"
@@ -4365,6 +4449,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2023-08-05 22:21:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-07 22:13:52 -0300"
     },
     "done": true
   },
@@ -5521,6 +5611,12 @@
     },
     "done": true
   },
+  "allthemodium:recipes/allthemodium/allthemodium_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2023-09-07 22:49:21 -0300"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/machine_frame": {
     "criteria": {
       "iron_ingot": "2023-08-13 15:50:39 -0300"
@@ -5560,6 +5656,12 @@
   "alltheores:recipes/alltheores/copper_nugget_from_ingot": {
     "criteria": {
       "has_item": "2023-08-06 02:46:37 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_pump_upgrade": {
+    "criteria": {
+      "has_pump_upgrade": "2023-09-07 22:21:01 -0300"
     },
     "done": true
   },
@@ -5888,6 +5990,12 @@
     },
     "done": true
   },
+  "mininggadgets:recipes/mininggadgets/modificationtable": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_kitchen_drawer": {
     "criteria": {
       "has_log": "2023-08-04 00:02:39 -0300"
@@ -5957,6 +6065,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv5": {
     "criteria": {
       "has_iron": "2023-08-04 00:26:19 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/bort_from_block": {
+    "criteria": {
+      "has_item": "2023-09-07 22:09:33 -0300"
     },
     "done": true
   },
@@ -6809,6 +6923,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_red": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-07 22:13:52 -0300"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/bricks": {
     "criteria": {
       "has_the_recipe": "2023-08-13 22:13:53 -0300"
@@ -7109,6 +7229,12 @@
   "alchemistry:recipes/dissolver/cyan_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2023-08-04 00:43:20 -0300"
+    },
+    "done": true
+  },
+  "mininggadgets:recipes/mininggadgets/upgrade_silk": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
     },
     "done": true
   },
@@ -8183,6 +8309,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_light": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-07 22:13:52 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2023-08-24 20:14:40 -0300"
@@ -8516,6 +8648,12 @@
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_crafting": {
     "criteria": {
       "has_wct": "2023-08-04 00:00:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-07 22:17:18 -0300"
     },
     "done": true
   },
@@ -8993,6 +9131,12 @@
   "silentgear:recipes/silentgear/azure_silver_dust_smelting": {
     "criteria": {
       "has_item": "2023-08-29 00:29:02 -0300"
+    },
+    "done": true
+  },
+  "mininggadgets:recipes/mininggadgets/upgrade_magnet": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
     },
     "done": true
   },
@@ -9670,6 +9814,12 @@
     },
     "done": true
   },
+  "mininggadgets:recipes/mininggadgets/upgrade_three_by_three": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-08-05 22:56:16 -0300"
@@ -10006,9 +10156,21 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_the_recipe": "2023-09-07 22:13:52 -0300"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/aluminum_ingot_from_slate_ore_blasting": {
     "criteria": {
       "has_item": "2023-08-13 17:39:00 -0300"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_green": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-07 22:13:52 -0300"
     },
     "done": true
   },
@@ -10292,9 +10454,21 @@
     },
     "done": true
   },
+  "mininggadgets:recipes/mininggadgets/upgrade_fortune_3": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/security_camera": {
     "criteria": {
       "has_iron": "2023-08-04 00:26:20 -0300"
+    },
+    "done": true
+  },
+  "mininggadgets:recipes/mininggadgets/upgrade_fortune_2": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
     },
     "done": true
   },
@@ -10331,6 +10505,12 @@
   "cfm:recipes/cfm/purple_kitchen_sink": {
     "criteria": {
       "has_bucket": "2023-08-12 22:21:39 -0300"
+    },
+    "done": true
+  },
+  "mininggadgets:recipes/mininggadgets/upgrade_fortune_1": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
     },
     "done": true
   },
@@ -10860,6 +11040,12 @@
   "ftbic:recipes/ftbic/shaped/ejector_upgrade": {
     "criteria": {
       "has_item": "2023-08-05 23:08:22 -0300"
+    },
+    "done": true
+  },
+  "mininggadgets:recipes/mininggadgets/mininggadget_fancy": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
     },
     "done": true
   },
@@ -11590,6 +11776,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-07 22:17:18 -0300"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/palm_sign": {
     "criteria": {
       "has_planks": "2023-08-13 15:27:05 -0300"
@@ -11677,6 +11869,12 @@
   "rftoolsbase:recipes/rftoolsbase/tablet": {
     "criteria": {
       "quartz": "2023-08-28 23:35:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-07 22:17:18 -0300"
     },
     "done": true
   },
@@ -11977,6 +12175,12 @@
   "elementalcraft:recipes/elementalcraft/shrinebase": {
     "criteria": {
       "has_whiterock": "2023-08-20 01:49:29 -0300"
+    },
+    "done": true
+  },
+  "deepresonance:recipes/deepresonance/lens": {
+    "criteria": {
+      "has_pane": "2023-09-07 23:21:45 -0300"
     },
     "done": true
   },
@@ -12442,6 +12646,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/deepslate_tile_bridge_pier": {
+    "criteria": {
+      "has_planks": "2023-09-07 22:13:52 -0300"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/blaze_rod": {
     "criteria": {
       "has_molten_core": "2023-08-29 00:08:56 -0300"
@@ -12790,6 +13000,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-07 22:17:18 -0300"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic_fuel/basic_generator_fuel/sugar_cane": {
     "criteria": {
       "has_item": "2023-08-06 02:13:04 -0300"
@@ -12921,6 +13137,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2023-08-06 02:47:42 -0300"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_green_r": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-07 22:13:52 -0300"
     },
     "done": true
   },
@@ -14088,6 +14310,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_dark": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-07 22:13:52 -0300"
+    },
+    "done": true
+  },
   "hexcasting:recipes/hexcasting/dye_colorizer_cyan": {
     "criteria": {
       "has_item": "2023-08-13 14:57:19 -0300"
@@ -14433,6 +14661,12 @@
   "create:recipes/create.palettes/calcite_pillar_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2023-08-04 00:41:42 -0300"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_blue": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-07 22:13:52 -0300"
     },
     "done": true
   },
@@ -15330,6 +15564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-07 22:17:18 -0300"
+    },
+    "done": true
+  },
   "botania:recipes/botania/apothecary_mossy": {
     "criteria": {
       "has_item": "2023-08-13 17:45:36 -0300"
@@ -15357,6 +15597,12 @@
   "cfm:recipes/cfm/gray_kitchen_counter": {
     "criteria": {
       "has_stone": "2023-08-13 22:14:13 -0300"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/deepslate_tile_bridge": {
+    "criteria": {
+      "has_planks": "2023-09-07 22:13:52 -0300"
     },
     "done": true
   },
@@ -15537,6 +15783,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_gray_wool": "2023-08-12 23:47:11 -0300"
+    },
+    "done": true
+  },
+  "mininggadgets:recipes/mininggadgets/upgrade_void_junk": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
     },
     "done": true
   },
@@ -15846,9 +16098,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-07 22:17:18 -0300"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_hedge": {
     "criteria": {
       "has_leaves": "2023-08-19 22:04:58 -0300"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/allthemodium/allthemodium_ingot_from_raw_blasting_blasting": {
+    "criteria": {
+      "has_item": "2023-09-07 22:49:21 -0300"
     },
     "done": true
   },
@@ -16458,6 +16722,12 @@
     },
     "done": true
   },
+  "mininggadgets:recipes/mininggadgets/upgrade_light_placer": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/ingots/copper_to_copper_rod": {
     "criteria": {
       "has_item": "2023-08-06 02:46:38 -0300"
@@ -16848,6 +17118,12 @@
     },
     "done": true
   },
+  "silentgear:salvager": {
+    "criteria": {
+      "get_item": "2023-09-07 23:22:01 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-08-04 00:41:37 -0300"
@@ -16977,6 +17253,12 @@
   "alchemistry:recipes/dissolver/cracked_deepslate_bricks": {
     "criteria": {
       "has_the_recipe": "2023-08-25 00:35:57 -0300"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/citizen_eat_food_first": {
+    "criteria": {
+      "citizen_eat_anything": "2023-09-07 22:19:49 -0300"
     },
     "done": true
   },
@@ -17617,6 +17899,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_blue_r": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-07 22:13:52 -0300"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/gunpart_hammer": {
     "criteria": {
       "has_ingot_steel": "2023-08-06 15:28:50 -0300"
@@ -17644,6 +17932,12 @@
   "ftbic:recipes/misc/blasting/dusts/copper_to_copper_ingot": {
     "criteria": {
       "has_item": "2023-08-13 16:56:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-07 22:17:18 -0300"
     },
     "done": true
   },
@@ -17855,6 +18149,12 @@
   "silentgear:recipes/silentgear/blaze_gold_block": {
     "criteria": {
       "has_item": "2023-08-19 21:38:17 -0300"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_light_r": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-07 22:13:52 -0300"
     },
     "done": true
   },
@@ -19196,6 +19496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-07 22:17:18 -0300"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/raw_platinum_from_block": {
     "criteria": {
       "has_item": "2023-08-13 18:00:58 -0300"
@@ -19766,6 +20072,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-07 22:13:52 -0300"
+    },
+    "done": true
+  },
   "pylons:recipes/pylons/harvester_pylon": {
     "criteria": {
       "has_hay_block": "2023-08-06 02:45:27 -0300"
@@ -20009,6 +20321,12 @@
   "tetra:spelunking/find_scroll": {
     "criteria": {
       "find": "2023-08-05 22:27:35 -0300"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_dark_r": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-07 22:13:52 -0300"
     },
     "done": true
   },
@@ -20432,6 +20750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-07 22:17:18 -0300"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/netcable_green": {
     "criteria": {
       "nugget": "2023-08-12 23:46:49 -0300"
@@ -20734,6 +21058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-07 22:13:52 -0300"
+    },
+    "done": true
+  },
   "botania:recipes/botania/apothecary_deepslate": {
     "criteria": {
       "has_item": "2023-08-13 17:45:36 -0300"
@@ -20809,6 +21139,12 @@
   "cfm:recipes/cfm/pink_grill": {
     "criteria": {
       "has_iron": "2023-08-04 00:26:19 -0300"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_red_r": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-07 22:13:52 -0300"
     },
     "done": true
   },
@@ -20987,6 +21323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-07 22:17:18 -0300"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_orange": {
     "criteria": {
       "has_ingot_iron_compressed": "2023-08-05 22:23:17 -0300"
@@ -21074,6 +21416,12 @@
   "littlelogistics:recipes/transportation/energy_tug": {
     "criteria": {
       "has_item": "2023-08-05 23:08:22 -0300"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/polished_deepslate_slab": {
+    "criteria": {
+      "has_the_recipe": "2023-09-07 22:17:18 -0300"
     },
     "done": true
   },
@@ -21468,6 +21816,12 @@
     },
     "done": true
   },
+  "allthemodium:recipes/allthemodium/allthemodium_dust_from_ore_crushing": {
+    "criteria": {
+      "has_item": "2023-09-07 22:49:21 -0300"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_fishing_rod": "2023-08-04 00:00:50 -0300",
@@ -21652,6 +22006,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/chiseled_polished_blackstone_light": {
     "criteria": {
       "has_chiseled_polished_blackstone": "2023-08-29 02:11:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-07 22:13:52 -0300"
     },
     "done": true
   },
@@ -21897,6 +22257,12 @@
     },
     "done": true
   },
+  "mininggadgets:recipes/mininggadgets/mininggadget": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2023-08-04 00:41:42 -0300"
@@ -21927,6 +22293,18 @@
     },
     "done": true
   },
+  "mininggadgets:recipes/mininggadgets/upgrade_battery_2": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
+    },
+    "done": true
+  },
+  "mininggadgets:recipes/mininggadgets/upgrade_battery_3": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
+    },
+    "done": true
+  },
   "elementalcraft:recipes/elementalcraft/binder": {
     "criteria": {
       "has_whiterock": "2023-08-20 01:49:29 -0300"
@@ -21942,6 +22320,12 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2023-08-25 23:22:53 -0300"
+    },
+    "done": true
+  },
+  "mininggadgets:recipes/mininggadgets/upgrade_battery_1": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
     },
     "done": true
   },
@@ -23113,6 +23497,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/deepslate_bricks": {
+    "criteria": {
+      "has_the_recipe": "2023-09-07 22:17:18 -0300"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/iron_to_gold_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2023-08-05 23:14:45 -0300"
@@ -23668,6 +24058,12 @@
   "byg:recipes/byg.byg/white_mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2023-08-05 22:56:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-07 22:17:18 -0300"
     },
     "done": true
   },
@@ -24453,6 +24849,12 @@
     },
     "done": true
   },
+  "mininggadgets:recipes/mininggadgets/upgrade_range_1": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2023-08-13 14:57:18 -0300"
@@ -24468,6 +24870,12 @@
   "hexcasting:recipes/hexcasting/pride_colorizer_asexual": {
     "criteria": {
       "has_item": "2023-08-13 14:57:19 -0300"
+    },
+    "done": true
+  },
+  "mininggadgets:recipes/mininggadgets/upgrade_range_3": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
     },
     "done": true
   },
@@ -24492,6 +24900,12 @@
   "botanypots:husbandry/get_basic_pot": {
     "criteria": {
       "get_botany_pot": "2023-08-23 22:22:29 -0300"
+    },
+    "done": true
+  },
+  "mininggadgets:recipes/mininggadgets/upgrade_range_2": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
     },
     "done": true
   },
@@ -24675,6 +25089,12 @@
   "mcwbridges:recipes/deepslate_brick_bridge_pier": {
     "criteria": {
       "has_planks": "2023-08-25 00:35:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2023-09-07 22:13:52 -0300"
     },
     "done": true
   },
@@ -25284,6 +25704,12 @@
   "elementalcraft:recipes/elementalcraft/sorter": {
     "criteria": {
       "has_swift_alloy_ingot": "2023-08-06 02:51:28 -0300"
+    },
+    "done": true
+  },
+  "mininggadgets:recipes/mininggadgets/upgrade_freezing": {
+    "criteria": {
+      "has_upgrade": "2023-09-07 23:21:51 -0300"
     },
     "done": true
   },
@@ -26214,6 +26640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-09-07 22:17:18 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2023-08-05 23:22:42 -0300"
@@ -26517,6 +26949,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/compressed_stone_from_slab": {
     "criteria": {
       "has_ingot_iron_compressed": "2023-08-05 22:23:17 -0300"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_yellow_pane1": {
+    "criteria": {
+      "recipe_condition": "2023-09-07 23:21:45 -0300"
     },
     "done": true
   },
