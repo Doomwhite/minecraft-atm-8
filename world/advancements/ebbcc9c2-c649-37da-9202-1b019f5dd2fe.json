@@ -1416,6 +1416,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockhutcook": {
+    "criteria": {
+      "has_items": "2023-09-12 21:37:10 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-07-31 21:20:17 -0300"
@@ -2901,6 +2907,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/build_citizen": {
+    "criteria": {
+      "citizens_hut": "2023-09-12 21:33:28 -0300"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/maple_chest_boat": {
     "criteria": {
       "has_boat": "2023-08-03 22:12:38 -0300"
@@ -3226,6 +3238,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2023-09-12 21:43:39 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_ladder_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2023-08-01 22:38:08 -0300"
@@ -3536,6 +3554,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2023-09-12 21:36:34 -0300"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/stick_treated": {
     "criteria": {
       "has_treated_planks": "2023-08-04 00:10:27 -0300"
@@ -3713,6 +3737,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2023-07-31 22:49:12 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2023-09-12 21:43:14 -0300"
     },
     "done": true
   },
@@ -5510,6 +5540,12 @@
   "cfm:recipes/cfm/pink_kitchen_sink": {
     "criteria": {
       "has_bucket": "2023-07-31 22:15:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2023-09-12 21:43:39 -0300"
     },
     "done": true
   },
@@ -14280,6 +14316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2023-09-12 21:25:30 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2023-07-31 22:38:12 -0300"
@@ -17269,6 +17311,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2023-09-12 21:42:37 -0300"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2023-07-31 21:19:32 -0300"
@@ -19145,6 +19193,12 @@
   "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-07-31 21:20:17 -0300"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockhuttavern": {
+    "criteria": {
+      "has_items": "2023-09-12 21:23:42 -0300"
     },
     "done": true
   },
