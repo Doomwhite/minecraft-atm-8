@@ -3017,6 +3017,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2023-09-13 20:08:02 -0300"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2023-08-13 22:05:27 -0300"
@@ -3627,6 +3633,12 @@
   "botania:recipes/botania/ender_eye_block": {
     "criteria": {
       "has_item": "2023-08-24 21:50:25 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/warden_axe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2023-09-13 20:36:43 -0300"
     },
     "done": true
   },
@@ -4398,6 +4410,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/warden_helmet_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2023-09-13 20:36:43 -0300"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/chain": {
     "criteria": {
       "has_the_recipe": "2023-08-04 00:26:19 -0300"
@@ -4768,6 +4786,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2023-08-05 23:08:23 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2023-09-13 20:06:30 -0300"
     },
     "done": true
   },
@@ -6098,6 +6122,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2023-09-13 20:56:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2023-09-02 00:00:42 -0300"
@@ -6407,6 +6437,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2023-09-13 20:06:02 -0300"
+    },
+    "done": true
+  },
   "wirelesschargers:recipes/wirelesschargers/basic_wireless_block_charger": {
     "criteria": {
       "recipe_condition": "2023-08-06 23:46:50 -0300"
@@ -6707,6 +6743,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/warden_boots_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2023-09-13 20:36:43 -0300"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/hammer_blueprint": {
     "criteria": {
       "has_item": "2023-08-13 17:04:59 -0300"
@@ -6959,9 +7001,21 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/warden_leggings_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2023-09-13 20:36:43 -0300"
+    },
+    "done": true
+  },
   "elementalcraft:recipes/elementalcraft/swift_alloy_block_from_swift_alloy_ingot": {
     "criteria": {
       "has_swift_alloy_ingot": "2023-08-06 02:51:28 -0300"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/warden_knife_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2023-09-13 20:36:43 -0300"
     },
     "done": true
   },
@@ -12634,6 +12688,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/warden_hoe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2023-09-13 20:36:43 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-08-04 00:43:20 -0300"
@@ -13059,6 +13119,12 @@
   "allthemodium:recipes/allthemodium/allthemodium_ingot_from_dust_blasting_blasting": {
     "criteria": {
       "has_item": "2023-08-26 00:23:57 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/warden_pickaxe_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2023-09-13 20:36:43 -0300"
     },
     "done": true
   },
@@ -17503,6 +17569,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2023-09-13 20:08:02 -0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2023-08-06 02:42:21 -0300"
@@ -19949,6 +20021,12 @@
   "croptopia:recipes/croptopia.croptopia/food_press": {
     "criteria": {
       "has_piston": "2023-08-05 23:08:22 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/warden_sword_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2023-09-13 20:36:43 -0300"
     },
     "done": true
   },
@@ -24909,6 +24987,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/deeperdarker/warden_shovel_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2023-09-13 20:36:43 -0300"
+    },
+    "done": true
+  },
   "croptopia:gather_plains": {
     "criteria": {
       "cabbage_seed": "2023-08-07 00:37:53 -0300",
@@ -25191,6 +25275,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
     "criteria": {
       "give_recipe": "2023-08-12 23:37:06 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:main/reinforce_shard": {
+    "criteria": {
+      "reinforced_shard": "2023-09-13 20:36:43 -0300"
     },
     "done": true
   },
@@ -26306,6 +26396,12 @@
   "cfm:recipes/cfm/black_kitchen_drawer": {
     "criteria": {
       "has_chest": "2023-08-05 22:29:29 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/warden_chestplate_smithing": {
+    "criteria": {
+      "has_reinforced_echo_shard": "2023-09-13 20:36:43 -0300"
     },
     "done": true
   },
